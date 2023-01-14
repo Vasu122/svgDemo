@@ -3,5 +3,3 @@ revert command here...
 revert code second time
 
 one commit
-
-two commit
